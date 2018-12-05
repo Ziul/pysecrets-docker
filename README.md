@@ -1,2 +1,3 @@
 # pysecrets-docker
-set docker secrets on environment
+
+Loads secrets from the container of docker into environment.
